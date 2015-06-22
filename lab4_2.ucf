@@ -1,0 +1,2 @@
+NET "LED" LOC = K4;
+NET "INPUT" LOC = E18;
